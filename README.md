@@ -15,6 +15,7 @@ Analyzed 31,047 sales records and customer data using Microsoft Excel, creating 
 
 **Result**:
 Key insights were derived showing that **64% of the orders come from women**, **Emerging Adults (18–34)** are the dominant customer segment, and **Maharashtra** and **Karnataka** are top-performing regions. With **92% successful deliveries**, the business is operating at a high efficiency level.
+
 ![image](https://github.com/user-attachments/assets/8ac9292a-be0e-41e5-9bbc-e1a017c1ce15)
 
 ---
