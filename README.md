@@ -163,14 +163,5 @@ Despite consistent traffic growth, the business was unable to determine why sale
 * **A/B test marketing campaigns** targeting Emerging Adults and women, focusing on promotional strategies and loyalty programs.
 * **Monitor regional sales performance** continuously to adjust inventory and marketing spend in key states.
 
----
-
-### 🔍 **Appendix**
-
-**Dashboard Screenshot**:
-(Include the dashboard image)
-
-**SQL/Python Snippets**:
-(Sample code for querying or analysis)
 
 
