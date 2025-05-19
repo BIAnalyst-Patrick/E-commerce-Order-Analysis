@@ -86,9 +86,8 @@ Despite consistent traffic growth, the business was unable to determine why sale
 
    * **What**: Women contribute **64%** of total orders.
    * **So What**: Women represent a primary customer demographic, and marketing efforts tailored to women could increase sales by **10%**.
-   * **Figure 1: Gender Distribution of Orders**
 
-![image](https://github.com/user-attachments/assets/e7b3a9ae-a8aa-4594-b11b-69c14ce83860)
+     ![image](https://github.com/user-attachments/assets/e7b3a9ae-a8aa-4594-b11b-69c14ce83860)
     
      **Figure 1: Gender Distribution of Orders**
 
