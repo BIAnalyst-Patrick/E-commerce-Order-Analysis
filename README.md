@@ -88,7 +88,9 @@ Despite consistent traffic growth, the business was unable to determine why sale
    * **What**: Women contribute **64%** of total orders.
    * **So What**: Women represent a primary customer demographic, and marketing efforts tailored to women could increase sales by **10%**.
    * **Figure 1: Gender Distribution of Orders**
-    ![image](https://github.com/user-attachments/assets/e7b3a9ae-a8aa-4594-b11b-69c14ce83860)
+
+![image](https://github.com/user-attachments/assets/e7b3a9ae-a8aa-4594-b11b-69c14ce83860)
+    
      **Figure 1: Gender Distribution of Orders**
 
 
@@ -96,15 +98,19 @@ Despite consistent traffic growth, the business was unable to determine why sale
 
    * **What**: **Emerging Adults (18–34)** represent **40%** of total orders.
    * **So What**: This age group is key for continued growth. Tailored promotions or loyalty programs aimed at this demographic could increase order volume by **15%**.
-     ![image](https://github.com/user-attachments/assets/91ed7d1b-7ff8-49a1-be04-d918df68d651)
-     **Figure 2: Orders by Age Group**
+
+      ![image](https://github.com/user-attachments/assets/91ed7d1b-7ff8-49a1-be04-d918df68d651)
+
+      **Figure 2: Orders by Age Group**
 
 
 3. **Sales Channels Performance**
 
    * **What**: Flipkart and Amazon contribute over **60%** of total sales.
    * **So What**: Focusing on strengthening partnerships with these platforms can boost sales. Additional investments in marketing these channels could lead to further growth.
-     ![image](https://github.com/user-attachments/assets/4c42a244-ccd2-41bf-a997-e9e06d1d17d0)
+
+      ![image](https://github.com/user-attachments/assets/4c42a244-ccd2-41bf-a997-e9e06d1d17d0)
+
      **Figure 3: Sales by Channel]**
 
 4. **Regional Insights**
@@ -112,6 +118,7 @@ Despite consistent traffic growth, the business was unable to determine why sale
    * **What**: Maharashtra and Karnataka lead in sales.
    * **So What**: These regions should be prioritized for further investment, including regional promotions, stock allocation, and targeted campaigns.
    * **Figure 4: Sales by State**
+
      ![image](https://github.com/user-attachments/assets/faa6152d-f218-4009-8b31-9979bd94ca50)
 
 
