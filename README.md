@@ -1,8 +1,7 @@
 ### 🛒 **E-commerce Order Analysis**
 
 **Industry**: E-commerce
-**Tools**: Microsoft Excel | Date: 2022
-
+**Tools**: Microsoft Excel
 ---
 
 ### 🚀 **Executive Summary**
