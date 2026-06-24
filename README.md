@@ -109,7 +109,7 @@ Despite consistent traffic growth, the business was unable to determine why sale
 
       ![image](https://github.com/user-attachments/assets/4c42a244-ccd2-41bf-a997-e9e06d1d17d0)
 
-     **Figure 3: Sales by Channel]**
+     **Figure 3: Sales by Channel**
 
 4. **Regional Insights**
 
@@ -162,5 +162,10 @@ Despite consistent traffic growth, the business was unable to determine why sale
 * **A/B test marketing campaigns** targeting Emerging Adults and women, focusing on promotional strategies and loyalty programs.
 * **Monitor regional sales performance** continuously to adjust inventory and marketing spend in key states.
 
+---
 
+### 👤 Author
 
+**Analyst:** Patrick Mwangi Gichuki
+**Portfolio:** [https://gichuki.site](https://gichuki.site)
+**LinkedIn:** [https://linkedin.com/in/patrick-gichuki-datascientist](https://linkedin.com/in/patrick-gichuki-datascientist)
