@@ -168,4 +168,4 @@ Despite consistent traffic growth, the business was unable to determine why sale
 
 **Analyst:** Patrick Mwangi Gichuki
 **Portfolio:** [https://gichuki.site](https://gichuki.site)
-**LinkedIn:** [https://linkedin.com/in/patrick-gichuki-datascientist](https://linkedin.com/in/patrick-gichuki-datascientist)
+**LinkedIn:** [https://www.linkedin.com/in/patrick-gichuki-the-bi-analyst](https://www.linkedin.com/in/patrick-gichuki-the-bi-analyst)
