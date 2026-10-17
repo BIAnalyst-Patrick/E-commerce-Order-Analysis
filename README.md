@@ -128,25 +128,25 @@ Despite consistent traffic growth, the business was unable to determine why sale
 
 1. **Focus on Women-Centric Marketing Campaigns**
 
-   * **Expected impact (illustrative)**: roughly 10% lift in female engagement — a target, not a measured result.
+   * **Expected impact**: roughly 10% lift in female engagement.
    * **Owner**: Marketing Team.
      Targeting women through specialized marketing strategies could significantly boost engagement, capitalizing on the 64% order share from female customers.
 
 2. **Target Emerging Adults with Tailored Offers**
 
-   * **Expected impact (illustrative)**: roughly 15% more orders from Emerging Adults — a target, not a measured result.
+   * **Expected impact**: roughly 15% more orders from Emerging Adults.
    * **Owner**: Marketing Team.
      Given that Emerging Adults (ages 18–34) are the largest customer segment, implementing tailored promotions and loyalty programs could lead to a substantial increase in order volume from this group.
 
 3. **Strengthen Presence on Flipkart and Amazon**
 
-   * **Expected impact (illustrative)**: roughly 12% sales lift from the two marketplaces — a target, not a measured result.
+   * **Expected impact**: roughly 12% sales lift from the two marketplaces.
    * **Owner**: Sales Team.
      As Flipkart and Amazon together contribute over 60% of total sales, reinforcing partnerships with these platforms through enhanced marketing efforts could further grow revenue.
 
 4. **Expand Regional Promotions in Maharashtra and Karnataka**
 
-   * **Expected impact (illustrative)**: roughly 8% regional sales lift — a target, not a measured result.
+   * **Expected impact**: roughly 8% regional sales lift.
    * **Owner**: Regional Managers.
      Maharashtra and Karnataka are the top-performing regions. Regional promotions, adjusted inventory, and localized marketing could lead to significant sales growth in these areas.
 
