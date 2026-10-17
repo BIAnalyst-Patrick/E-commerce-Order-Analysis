@@ -15,7 +15,7 @@ Analyzed 31,047 sales records and customer data using Microsoft Excel, creating 
 **Result**:
 Key insights were derived showing that **64% of the orders come from women**, **Emerging Adults (18–34)** are the dominant customer segment, and **Maharashtra** and **Karnataka** are top-performing regions. With **92% successful deliveries**, the business is operating at a high efficiency level.
 
-![image](https://github.com/user-attachments/assets/8ac9292a-be0e-41e5-9bbc-e1a017c1ce15)
+![image](images/readme-01.png)
 
 ---
 
@@ -85,9 +85,9 @@ Despite consistent traffic growth, the business was unable to determine why sale
 1. **Women Drive Majority of Sales**
 
    * **What**: Women contribute **64%** of total orders.
-   * **So What**: Women represent a primary customer demographic, and marketing efforts tailored to women could increase sales by **10%**.
+   * **So What**: Women represent a primary customer demographic, and marketing efforts tailored to women are the clearest lever this data supports — the size of the lift is not measurable here, because the dataset contains no campaign data.
 
-     ![image](https://github.com/user-attachments/assets/e7b3a9ae-a8aa-4594-b11b-69c14ce83860)
+     ![image](images/readme-02.png)
     
      **Figure 1: Gender Distribution of Orders**
 
@@ -95,9 +95,9 @@ Despite consistent traffic growth, the business was unable to determine why sale
 2. **Emerging Adults Lead in Orders**
 
    * **What**: **Emerging Adults (18–34)** represent **40%** of total orders.
-   * **So What**: This age group is key for continued growth. Tailored promotions or loyalty programs aimed at this demographic could increase order volume by **15%**.
+   * **So What**: This age group is key for continued growth. Tailored promotions or loyalty programs aimed at this demographic are the obvious next lever; the dataset cannot size the lift.
 
-      ![image](https://github.com/user-attachments/assets/91ed7d1b-7ff8-49a1-be04-d918df68d651)
+      ![image](images/readme-03.png)
 
       **Figure 2: Orders by Age Group**
 
@@ -107,7 +107,7 @@ Despite consistent traffic growth, the business was unable to determine why sale
    * **What**: Flipkart and Amazon contribute over **60%** of total sales.
    * **So What**: Focusing on strengthening partnerships with these platforms can boost sales. Additional investments in marketing these channels could lead to further growth.
 
-      ![image](https://github.com/user-attachments/assets/4c42a244-ccd2-41bf-a997-e9e06d1d17d0)
+      ![image](images/readme-04.png)
 
      **Figure 3: Sales by Channel**
 
@@ -117,34 +117,36 @@ Despite consistent traffic growth, the business was unable to determine why sale
    * **So What**: These regions should be prioritized for further investment, including regional promotions, stock allocation, and targeted campaigns.
    * **Figure 4: Sales by State**
 
-     ![image](https://github.com/user-attachments/assets/faa6152d-f218-4009-8b31-9979bd94ca50)
+     ![image](images/readme-05.png)
 
 
 ---
 
 ### ✅ **Recommendations & Business Impact**
 
+> **Impact figures below are illustrative targets, not measured outcomes.** This dataset contains no campaign, spend or post-campaign data, so the percentages size an opportunity — they do not forecast a result.
+
 1. **Focus on Women-Centric Marketing Campaigns**
 
-   * **Expected Impact**: Increase female engagement by 10%.
+   * **Expected impact (illustrative)**: roughly 10% lift in female engagement — a target, not a measured result.
    * **Owner**: Marketing Team.
      Targeting women through specialized marketing strategies could significantly boost engagement, capitalizing on the 64% order share from female customers.
 
 2. **Target Emerging Adults with Tailored Offers**
 
-   * **Expected Impact**: Boost orders from Emerging Adults by 15%.
+   * **Expected impact (illustrative)**: roughly 15% more orders from Emerging Adults — a target, not a measured result.
    * **Owner**: Marketing Team.
      Given that Emerging Adults (ages 18–34) are the largest customer segment, implementing tailored promotions and loyalty programs could lead to a substantial increase in order volume from this group.
 
 3. **Strengthen Presence on Flipkart and Amazon**
 
-   * **Expected Impact**: Increase sales by 12%.
+   * **Expected impact (illustrative)**: roughly 12% sales lift from the two marketplaces — a target, not a measured result.
    * **Owner**: Sales Team.
      As Flipkart and Amazon together contribute over 60% of total sales, reinforcing partnerships with these platforms through enhanced marketing efforts could further grow revenue.
 
 4. **Expand Regional Promotions in Maharashtra and Karnataka**
 
-   * **Expected Impact**: Increase regional sales by 8%.
+   * **Expected impact (illustrative)**: roughly 8% regional sales lift — a target, not a measured result.
    * **Owner**: Regional Managers.
      Maharashtra and Karnataka are the top-performing regions. Regional promotions, adjusted inventory, and localized marketing could lead to significant sales growth in these areas.
 
@@ -166,6 +168,6 @@ Despite consistent traffic growth, the business was unable to determine why sale
 
 ### 👤 Author
 
-**Analyst:** Patrick Mwangi Gichuki
-**Portfolio:** [https://gichuki.site](https://gichuki.site)
+**Analyst:** Patrick Gichuki
+**GitHub:** [BIAnalyst-Patrick](https://github.com/BIAnalyst-Patrick)
 **LinkedIn:** [https://www.linkedin.com/in/patrick-gichuki-the-bi-analyst](https://www.linkedin.com/in/patrick-gichuki-the-bi-analyst)
